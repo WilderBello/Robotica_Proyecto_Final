@@ -4,6 +4,8 @@ El proyecto final de robótica tiene como finalidad el diseño de un gripper art
 
 ## Autores
 
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Imagenes/Integrantes.jpg)
+
 - [Wilder Ofrey Bello Herrera](https://github.com/WilderBello)
 - [Javier Eduardo Gutierrez Serrano](https://github.com/jaegutierrezser)
 
@@ -32,9 +34,22 @@ Para el gripper se utilizó medio pliego de MDF, del cual se realizaron cortes l
 
 ## Diseño de gripper
 
+
+
 ## Diseño de la herramienta
 
+Luego del diseño de la herramienta, se procedió al ensamble de la misma, obteniendo la herramienta totalmente ensamblada con la ventosa para el movimiento de las piezas como se puede observar a continuación:
+
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Imagenes/Herramienta1.jpg)
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Imagenes/Herramienta2.jpg)
+
 ## Modelo de la celda de ensamble - Robot Studio
+
+Para el modelado de la celda de ensamble en Robot Studio, se realizó el diseño del WorkObject que contiene cada una de las partes del gripper, así como el espacio para el ensamble del mismo. 
+
+## Código en RAPID
+
+El código de RAPID empleado para llevar a cabo la rutina planteada se puede ver en este [link](https://github.com/WilderBello/Robotica_Laboratorio_1/tree/main/Codigo%20RAPID_Lab_01_Robotica)
 
 ## Video de implementación
 La implementación del código se puede observar en el video:
