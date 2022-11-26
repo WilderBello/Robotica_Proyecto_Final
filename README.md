@@ -55,3 +55,7 @@ El código de RAPID empleado para llevar a cabo la rutina planteada se puede ver
 La implementación del código se puede observar en el video:
 
 [![Ver el video](https://drive.google.com/file/d/1QhI-nAJg5XgqxbzmVyoA0x-kBUTsYf57/view?usp=sharing)](https://drive.google.com/file/d/1QhI-nAJg5XgqxbzmVyoA0x-kBUTsYf57/view?usp=sharing)
+
+[Implementación Cinemática Inversa](https://www.youtube.com/watch?v=euyQuvwOyTE&ab_channel=JavierEduardoGutierrezSerrqno)
+# [![Alt text](https://img.youtube.com/vi/euyQuvwOyTE/0.jpg)](https://www.youtube.com/watch?v=euyQuvwOyTE)
+
