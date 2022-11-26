@@ -15,16 +15,27 @@ La solución que se plantea para el desarrollo del proyecto es el diseño de un 
 
 - Pieza base: Esta parte del gripper permite el soporte de la estructura interna.
 
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/IMG_20221125_214406.jpg)
+
 - Soporte deslizador: El soporte del deslizador permite tener un espacio por el cual pasará el deslizador interno que moverá las pinzas.
+
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/IMG_20221125_214413.jpg)
 
 - Pieza deslizadora: Esta pieza permitirá el desplazamiento coordinado de las pinzas para la apertura y cierre de las mismas.
 
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/IMG_20221125_214334.jpg)
+
 - Pinzas: Se tienen dos pinzas, una en cada lado, de tal manera que al cerrarse el espacio entre sus puntas mediante el accionamiento del deslizador interno se pueda prensar objetos.
+
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/IMG_20221125_214431.jpg)
 
 - Soporte de pinzas: Esta pieza permite tener el espacio suficiente para poder realizar el movimiento de rotación en cada una de las pinzas sin quedar ajustadas.
 
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/IMG_20221125_214357.jpg)
+
 - Pieza superior: Esta pieza funciona como tapa para el cierre de la estructura, otorgando rigidez a la misma.
 
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/IMG_20221125_214343.jpg)
 
 El orden de ensamble es el siguiente: Pieza base, soporte deslizador, pieza deslizadora, pinza 1 y 2, soporte de pinzas y pieza superior.
 
