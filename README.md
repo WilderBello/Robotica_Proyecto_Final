@@ -52,7 +52,7 @@ Para el modelado de la celda de ensamble en Robot Studio, se realizó el diseño
 El código de RAPID empleado para llevar a cabo la rutina planteada se puede ver en este [link](https://github.com/WilderBello/Robotica_Laboratorio_1/tree/main/Codigo%20RAPID_Lab_01_Robotica)
 
 ## Video de implementación
-La implementación del código se puede observar en el video:
+En el siguiente video se encuentra la simulación realizada en Robotstudio para el proyecto del curso de Róbotica de la Universidad Nacional de Colombia 2022-2, ademas, se aprecia la implementación física realizada en el robot industrial ABB IRB 140 con controlador IRC5 del laboratorio LabSIR.
 
 
 [Proyecto Róbotica: Ensamblaje Gripper](https://www.youtube.com/watch?v=euyQuvwOyTE&ab_channel=JavierEduardoGutierrezSerrqno)
