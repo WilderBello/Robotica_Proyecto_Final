@@ -53,7 +53,7 @@ Para el gripper se utilizó medio pliego de MDF, del cual se realizaron cortes l
 
 Se realizó el modelado de la herramienta en Robot Studio, obteniendo el modelo que se puede observar a continuación:
 
-![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/Tool.jpg)
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/Tool.png)
 
 Luego del diseño de la herramienta, se procedió al ensamble de la misma, obteniendo la herramienta totalmente ensamblada con la ventosa para el movimiento de las piezas como se puede observar a continuación:
 
