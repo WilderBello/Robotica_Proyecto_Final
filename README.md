@@ -49,6 +49,8 @@ Para el gripper se utilizó medio pliego de MDF, del cual se realizaron cortes l
 
 
 
+Los planos del gripper se pueden ver [aquí](https://github.com/WilderBello/Robotica_Laboratorio_1/tree/main/Codigo%20RAPID_Lab_01_Robotica)
+
 ## Diseño de la herramienta
 
 Se realizó el modelado de la herramienta en Robot Studio, obteniendo el modelo que se puede observar a continuación:
@@ -59,6 +61,8 @@ Luego del diseño de la herramienta, se procedió al ensamble de la misma, obten
 
 ![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Imagenes/Herramienta1.jpg)
 ![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Imagenes/Herramienta2.jpg)
+
+Los planos de la herramienta se pueden ver [aquí](https://github.com/WilderBello/Robotica_Laboratorio_1/tree/main/Codigo%20RAPID_Lab_01_Robotica)
 
 ## Modelo de la celda de ensamble - Robot Studio
 
