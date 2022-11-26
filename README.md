@@ -46,10 +46,10 @@ Para el gripper se utilizó medio pliego de MDF, del cual se realizaron cortes l
 ![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Imagenes/MDF.jpg)
 
 ## Diseño de gripper
+El gripper que se manejó para la solución de trabajo en el ensamblaje de esta herramienta, consiste en la unión de siete piezas con una armadura central de 14 cm de lado y un tamaño de gripper de 29 cm desde la empuñadura del gripper y el extremo de las pinzas. Para mayor detalle de dimensiones del gripper, dirijase a la carpeta de los planos de la herramienta de ensamblaje.
 
 
-
-Los planos del gripper se pueden ver [aquí](https://github.com/WilderBello/Robotica_Laboratorio_1/tree/main/Codigo%20RAPID_Lab_01_Robotica)
+Los planos del gripper se pueden ver [aquí](https://github.com/WilderBello/Robotica_Proyecto_Final/tree/main/Planos%20Gripper)
 
 ## Diseño de la herramienta
 
@@ -62,7 +62,7 @@ Luego del diseño de la herramienta, se procedió al ensamble de la misma, obten
 ![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Imagenes/Herramienta1.jpg)
 ![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Imagenes/Herramienta2.jpg)
 
-Los planos de la herramienta se pueden ver [aquí](https://github.com/WilderBello/Robotica_Laboratorio_1/tree/main/Codigo%20RAPID_Lab_01_Robotica)
+Los planos de la herramienta se pueden ver [aquí](https://github.com/WilderBello/Robotica_Proyecto_Final/tree/main/Planos%20Herramienta)
 
 ## Modelo de la celda de ensamble - Robot Studio
 
