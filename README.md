@@ -64,7 +64,7 @@ Luego del diseño de la herramienta, se procedió al ensamble de la misma, obten
 
 Para el modelado de la celda de ensamble en Robot Studio, se realizó el diseño del WorkObject que contiene cada una de las partes del gripper, así como el espacio para el ensamble del mismo como se puede observar a continuación:
 
-![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/ZonadeTrabajo.jpg)
+![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Proyecto/ZonadeTrabajo.png)
 
 ## Código en RAPID
 
