@@ -74,6 +74,8 @@ En la siguiente imagen, se aprecia el modelo de la celda de ensamble empleada en
 
 ![](https://github.com/WilderBello/Robotica_Proyecto_Final/blob/main/Imagenes/Celda_Ensamble.png)
 
+Ademas, se pueden encontrar en el siguiente link los modelos empleados para la celda de ensamblaje dentro de RobotStudio. [link](https://github.com/WilderBello/Robotica_Proyecto_Final/tree/main/Modelo%20Celda%20de%20Ensamblaje)
+
 ## Código en RAPID
 
 El código de RAPID empleado para llevar a cabo la rutina planteada se puede ver en el siguiente [link](https://github.com/WilderBello/Robotica_Proyecto_Final/tree/main/Codigo%20RAPID%20Proyecto_Implementaci%C3%B3n_Fisica)
